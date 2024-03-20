@@ -8225,19 +8225,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eslopes\\.nuget\\packages\\": {}
+    "C:\\Users\\Eduardo Sabino\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eslopes\\source\\repos\\GestaoDeLaboratorios\\GestaoDeLaboratorios\\GestaoDeLaboratorios.csproj",
+      "projectUniqueName": "c:\\Users\\Eduardo Sabino\\source\\Lab\\lab2\\labcomputer\\GestaoDeLaboratorios\\GestaoDeLaboratorios.csproj",
       "projectName": "GestaoDeLaboratorios",
-      "projectPath": "C:\\Users\\eslopes\\source\\repos\\GestaoDeLaboratorios\\GestaoDeLaboratorios\\GestaoDeLaboratorios.csproj",
-      "packagesPath": "C:\\Users\\eslopes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eslopes\\source\\repos\\GestaoDeLaboratorios\\GestaoDeLaboratorios\\obj\\",
+      "projectPath": "c:\\Users\\Eduardo Sabino\\source\\Lab\\lab2\\labcomputer\\GestaoDeLaboratorios\\GestaoDeLaboratorios.csproj",
+      "packagesPath": "C:\\Users\\Eduardo Sabino\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Eduardo Sabino\\source\\Lab\\lab2\\labcomputer\\GestaoDeLaboratorios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\eslopes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eduardo Sabino\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8257,6 +8257,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8315,7 +8320,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
